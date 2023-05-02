@@ -1,0 +1,12 @@
+1. Addition of "Address" and "Integer"
+
+  new_address = previous_address + integer
+  new_address = previous_address + integer*(sizeof(type))
+  
+ 2. Substarction of "Address" and "Integer"
+ 
+  new_address = previous_address - integer
+  new_address = previous_address - integer*(sizeof(type))
+  
+3."Address" - "Address" = "Integer"
+    
